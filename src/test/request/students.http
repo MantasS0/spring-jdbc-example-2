@@ -10,3 +10,8 @@ GET http://localhost:8080/api/students
 Accept: application/json
 
 ###
+
+GET http://localhost:8080/api/students/avg
+Accept: application/json
+
+###

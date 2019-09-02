@@ -3,7 +3,6 @@ package lt.bit.java2.springjdbc2.entities;
 import java.util.List;
 
 public class Student {
-    public static List<Student> students;
 
     private Integer id;
     private String name;
